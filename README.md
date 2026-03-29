@@ -90,15 +90,14 @@ Se aplicará al final a través de la presentación grupal, donde los estudiante
 Autoevaluación:
 Los estudiantes reflexionarán sobre su propio aprendizaje respondiendo preguntas como: “¿Qué aprendí?” y “¿Cómo puedo mejorar?”.
 
-🔎 Fase 4 – Reflexión del Arquitecto del Aprendizaje
+🔎 Fase 4 – Reflexión 
 
 Responda brevemente:
 🔎 Reflexión del Arquitecto del Aprendizaje
 
-¿Cómo contribuye esta metodología al aprendizaje ?
 La metodología de aula invertida permite que el estudiante sea protagonista de su aprendizaje , desarrolle autonomía, pensamiento crítico y mayor comprensión de los contenidos al aplicar lo aprendido en clase.
 
-¿Cómo fortalece la tecnología tu propuesta pedagógica?
+
 La tecnología facilita el acceso al contenido, hace el aprendizaje más dinámico e interactivo, y permite el uso de herramientas que motivan al estudiante y mejoran su participación.
 
 📎 Evidencia del diseño
