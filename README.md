@@ -1,7 +1,7 @@
 # Elaboracion-de-Plano-didactico
 Profesorado 84
 Estudio de Arquitectura del Aprendizaje Digital
-Plano Didáctico Innovador
+Plano Didáctico Innovador 
 
 Asignatura: Innovaciones y Tendencias en la Educación en Línea
 Actividad: Diseño de un plan de lección con metodología innovadora y tecnología.
@@ -21,39 +21,66 @@ La metodología que utilizaré es el aprendizaje activo, ya que permite que los 
 
 Seleccioné esta metodología porque promueve la participación, el pensamiento crítico y el aprendizaje significativo. Además, se adapta a diferentes estilos de aprendizaje y motiva a los estudiantes a involucrarse más en las clases, haciendo el proceso educativo más interesante y efectivo.
 
-🏗️ Fase 3 – Construcción del Plano Didáctico
-🧱 Tema de la clase
+🏗️ Construcción del Plano Didáctico
+🧱 Concepto e importancia de la administración de empresas
 
-Escribe el tema de la lección.
+Concepto e importancia de la administración de empresas
 
-🎯 Objetivo de aprendizaje
+🎯 Objetivo de aprendizaje:
 
-Redacta qué se espera que aprendan los estudiantes.
+Definir qué es la administración de empresas.
+Identificar su importancia en el entorno laboral.
+Aplicar el concepto a situaciones reales.
 
-🧠 Metodología innovadora aplicada
+🧠 Metodología innovadora aplicada:
+Aula invertida
 
-Explica cómo utilizarás la metodología seleccionada.
+El docente proporcionará materiales digitales antes de la clase (video y lectura).
+En el aula, los estudiantes desarrollarán actividades prácticas, colaborativas y reflexivas para aplicar lo aprendido.
 
 📚 Actividades de aprendizaje
 Etapa	Actividad
-Inicio	
-Desarrollo	
-Cierre	
-💻 Herramienta tecnológica
+🟢 INICIO
+Preguntas sobre el contenido revisado
+Lluvia de ideas
 
-Indica la herramienta digital que utilizarás y explica cómo apoyará el aprendizaje.
+👉 Herramienta: Padlet
+👉 Apoyo: activa conocimientos previos
+
+
+🟡 DESARROLLO
+Análisis de un caso de empresa
+Trabajo en grupo
+Creación de presentación
+
+👉 Herramienta: Canva + Kahoot
+👉 Apoyo: refuerza aprendizaje de forma visual y dinámica
+
+🔴 CIERRE
+Exposición
+Reflexión final
+
+👉 Herramienta: Presentación digital
+👉 Apoyo: permite a los estudiantes organizar y comunicar sus ideas de forma clara y visual, reforzando la comprensión del tema y desarrollando habilidades de expresión y síntesis.
+
+
 
 📊 Estrategia de evaluación
+Evaluación diagnóstica:
+Se realizará al inicio mediante preguntas sobre el video visto en casa, para identificar los conocimientos previos de los estudiantes.
+Evaluación formativa:
+Se llevará a cabo durante el desarrollo de la clase mediante la participación en actividades grupales, análisis de casos y uso de herramientas como Kahoot, permitiendo monitorear el aprendizaje en proceso.
+Evaluación sumativa:
+Se aplicará al final a través de la presentación grupal, donde los estudiantes demostrarán lo aprendido sobre la administración de empresas.
+Autoevaluación:
+Los estudiantes reflexionarán sobre su propio aprendizaje respondiendo preguntas como: “¿Qué aprendí?” y “¿Cómo puedo mejorar?”.
 
-Describe cómo evaluarás el aprendizaje de los estudiantes.
 
-🔎 Fase 4 – Reflexión del Arquitecto del Aprendizaje
+🔎 Reflexión del Arquitecto del Aprendizaje
 
-Responde brevemente:
+La metodología de aula invertida permite que el estudiante sea protagonista de su aprendizaje, desarrollando autonomía, pensamiento crítico y mayor comprensión de los contenidos al aplicar lo aprendido en clase.
 
-¿Cómo contribuye esta metodología al aprendizaje?
-
-¿Cómo fortalece la tecnología tu propuesta pedagógica?
+La tecnología facilita el acceso al contenido, hace el aprendizaje más dinámico e interactivo, y permite el uso de herramientas que motivan al estudiante y mejoran su participación.
 
 📎 Evidencia del diseño
 
