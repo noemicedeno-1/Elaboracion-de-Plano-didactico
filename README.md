@@ -15,17 +15,14 @@ Gamificación			Kahoot, Genially, Classcraft
 Aula Invertida			YouTube, Edpuzzle, Google Classroom
 Aprendizaje Basado en Proyectos			Canva, Padlet, Google Docs
 
-Metodología seleccionada
-Aula invertida
- ¿Por qué utilizaré esta metodología?
+Metodología seleccionada: Aula invertida
+¿Por qué utilizaré esta metodología?
 
-Se selecciona porque permite que los estudiantes:
-	•	Lleguen preparados a la clase
-	•	Participen activamente en actividades prácticas
-	•	Desarrollen pensamiento crítico
-	•	Utilicen herramientas tecnológicas en su aprendizaje
+La metodología de aula invertida se selecciona porque permite que los estudiantes asuman un rol más activo en su proceso de aprendizaje. A través de esta estrategia, los alumnos revisan previamente los contenidos teóricos fuera del aula, lo que facilita un mejor aprovechamiento del tiempo en clase.
 
-Además, es ideal para el área de Administración de Empresas, ya que fomenta el análisis de situaciones reales.
+Durante las sesiones presenciales, los estudiantes participan en actividades prácticas, análisis de casos y trabajo colaborativo, fortaleciendo así su comprensión y aplicación de los conocimientos.
+
+Esta metodología favorece el desarrollo del pensamiento crítico, promueve el uso de herramientas tecnológicas y fomenta la autonomía en el aprendizaje. Resulta especialmente adecuada para el área de Administración de Empresas, ya que permite analizar situaciones reales y tomar decisiones basadas en contextos prácticos.
 
 
 🏗️ Fase 3 – Construcción del Plano Didáctico
