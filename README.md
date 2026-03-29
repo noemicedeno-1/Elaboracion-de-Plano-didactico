@@ -16,10 +16,17 @@ Aula Invertida			YouTube, Edpuzzle, Google Classroom
 Aprendizaje Basado en Proyectos			Canva, Padlet, Google Docs
 
 Metodología seleccionada
-Escribe aquí cuál metodología utilizarás y por qué.
-La metodología que utilizaré es el aprendizaje activo, ya que permite que los estudiantes participen de manera dinámica en su proceso de aprendizaje. Esta metodología se basa en actividades prácticas, trabajo en grupo y resolución de problemas, lo que facilita una mejor comprensión de los contenidos.
+Aula invertida
+ ¿Por qué utilizaré esta metodología?
 
-Seleccioné esta metodología porque promueve la participación, el pensamiento crítico y el aprendizaje significativo. Además, se adapta a diferentes estilos de aprendizaje y motiva a los estudiantes a involucrarse más en las clases, haciendo el proceso educativo más interesante y efectivo.
+Se selecciona porque permite que los estudiantes:
+	•	Lleguen preparados a la clase
+	•	Participen activamente en actividades prácticas
+	•	Desarrollen pensamiento crítico
+	•	Utilicen herramientas tecnológicas en su aprendizaje
+
+Además, es ideal para el área de Administración de Empresas, ya que fomenta el análisis de situaciones reales.
+
 
 🏗️ Fase 3 – Construcción del Plano Didáctico
 🧱 Tema de la clase
